@@ -12,8 +12,8 @@ A simple and interactive calculator built using React. This calculator supports 
 
 **Demo**
 
-<img src="https://github.com/user-attachments/assets/5581c226-0371-4182-bfc2-4effc0d0044c" width="300" height="300">
-<img src="https://github.com/user-attachments/assets/3a9625a4-345b-4529-a0e8-27352b0938c5" width="300" height="300">
+<img src="https://github.com/user-attachments/assets/3e0abf56-65b8-4f32-b9c0-d9d26793402a" width="300" height="300">
+<img src="https://github.com/user-attachments/assets/4ceb44c4-48fd-4008-9f2f-73e52fd36327" width="300" height="300">
 
 
 **Features**
